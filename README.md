@@ -26,8 +26,14 @@ The sequence increases by one at each level, testing the user’s memory and rea
 ---
 
 ## 🧩 Flowchart
-> *(Add your flowchart image here)*
+![Flowchart](https://raw.githubusercontent.com/Sian-soj/arduino-memory-game/refs/heads/main/docs/flowchart.png)
 
-Example:
-```md
-![Flowchart](docs/flowchart.png)
+## 🛠️ Applications
+- Memory training games
+- Embedded systems practice
+- Logic-building projects for beginners
+
+## 🚀 Future Improvements
+- LCD/OLED display for score
+- Sound feedback using buzzer
+- Difficulty modes
