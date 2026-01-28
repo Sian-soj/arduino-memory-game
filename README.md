@@ -26,6 +26,9 @@ The sequence increases by one at each level, testing the user’s memory and rea
 ---
 
 ## 🧩 Flowchart
+
+The flowchart represents the logical flow of the game from initialization to game reset.
+
 ![Flowchart](https://raw.githubusercontent.com/Sian-soj/arduino-memory-game/refs/heads/main/docs/flowchart.png)
 
 ## 🛠️ Applications
