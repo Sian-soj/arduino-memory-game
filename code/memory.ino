@@ -1,8 +1,8 @@
 #define NUM_LEDS 4 //Using four leds
 #define MAX_LEVEL 20 //Number of Levels
 
-int ledPins[NUM_LEDS] = {2, 3, 4, 5}; //Connect Led anode to Digital pins (2,3,4,5)
-int buttonPins[NUM_LEDS] = {8, 9, 10, 11};//Connect Buttons to Digital pins (2,3,4,5)
+int ledPins[NUM_LEDS] = {8, 9, 10, 11}; //Connect Led anode to Digital pins (8,9,10,11)
+int buttonPins[NUM_LEDS] = {2, 3, 4, 5}; //Connect Buttons to Digital pins (2,3,4,5)
 
 int sequence[MAX_LEVEL];
 int level = 1;
